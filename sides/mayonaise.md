@@ -1,2 +1,2 @@
 ingredients
--egg
+- 2 eggs
